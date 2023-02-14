@@ -1,0 +1,74 @@
+*{
+    background-color: bisque;
+}
+body{
+    background-color: bisque;
+}
+h1, h2{
+    font-family: 'Aboreto', cursive;
+}
+h3, h4{
+    font-family: 'Catamaran', sans-serif;
+}
+p {
+    font-family: 'Catamaran', sans-serif;
+}
+.portada{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.itemLista{
+    text-decoration: none;
+    color: black;
+}
+.imagen{
+    width: 100%;
+    border-radius: 3px;
+    border: solid 1px black;
+}
+button {
+    margin-top: 15px;
+    padding: 10px;
+    font-family: 'Aboreto', cursive;
+    background-color: #DEFFE5;
+}
+.botonFrase{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.linea{
+    width: 70%;
+    height: 2px;
+    background-color: black;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.titulo{
+    margin-top: 15px;
+}
+.subtitulo{
+    padding-top: 10px;
+}
+.barraNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+nav{
+    background-color: bisque;
+}
+.lista{
+    padding: 0px 5px 0px 5px;
+    
+}
